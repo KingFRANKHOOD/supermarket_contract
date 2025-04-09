@@ -1,5 +1,5 @@
 [package]
-name = "counter_contract"
+name = "supermarket_contract"
 version = "0.1.0"
 edition = "2024_07"
 
@@ -9,7 +9,7 @@ edition = "2024_07"
 starknet = "2.11.2"
 
 [dev-dependencies]
-snforge_std = "0.39.0"
+snforge_std = "0.40.0"
 assert_macros = "2.11.2"
 
 [[target.starknet-contract]]
